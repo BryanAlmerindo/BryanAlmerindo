@@ -1,41 +1,48 @@
-# 👋 Hey, I'm Bryan Leandro!
+<h1 align="center">Hi, I'm Bryan Leandro 👋</h1>
 
-🎓 **Software Engineering student at PUCRS**  
-💻 **Junior Backend Developer**  
-🚀 Always learning and open to new challenges! :)
+<h3 align="center">Software Engineering Student • Backend-focused Developer</h3>
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
-- Python • FastAPI • Django • SQLAlchemy 
-- Java • Spring
-
-**Databases & Tools**
-- PostgreSQL • MySQL  
-- Git • GitHub • GitLab  
-- Linux  
+<p align="center">
+  Software Engineering student at PUCRS.  
+  Focused on backend development with Python, FastAPI & Django,  
+  but also experienced with Java and Spring.
+</p>
 
 ---
 
-## 🌐 Where to find me
+<h3 align="center">Stack.</h3>
 
-- 💠 **LinkedIn:** [Bryan-Brasil](https://www.linkedin.com/in/bryan-brasil/)
-- 💼 **Professional projects:** [GitHub – @BryanLBrasil](https://github.com/BryanLBrasil)
-- 🎓 **Academic projects:** [GitLab – bryan.brasil](https://tools.ages.pucrs.br/bryan.brasil)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,postgres,git,linux" />
+</p>
 
 ---
 
-## 📈 GitHub Activity
+<h3 align="center">Social media.</h3>
+
+<p align="center">
+  </a>
+  <a href="https://www.linkedin.com/in/bryan-brasil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/BryanLBrasil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://tools.ages.pucrs.br/bryan.brasil">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="mailto:bryanleandror6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">github stats.</h3>
 
 <div align="center">
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanLBrasil&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLBrasil&layout=compact&theme=tokyonight)
-
-</div>
-
-
-
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=BryanLBrasil&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLBrasil&layout=compact&theme=tokyon
