@@ -2,15 +2,7 @@
 
 🎓 **Software Engineering student at PUCRS**  
 💻 **Junior Backend Developer**  
-🚀 Passionate about building APIs solutions that make a difference
-
----
-
-## 🧠 About Me
-
-- 🔹 Focused on **Backend development** with **Python, FastAPI, Django, Java & Spring**
-- 🔹 Strong interest in **software architecture, clean code & best practices**
-- 🔹 Always learning and open to new challenges! :)
+🚀 Always learning and open to new challenges! :)
 
 ---
 
@@ -35,7 +27,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
+
+<div align="center">
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanLBrasil&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLBrasil&layout=compact&theme=tokyonight)
+
+</div>
+
+
+
 
