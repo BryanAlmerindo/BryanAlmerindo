@@ -1,27 +1,24 @@
 # 👋 Hey, I'm Bryan Leandro!
 
 🎓 **Software Engineering student at PUCRS**  
-💻 **Junior Full Stack Developer**  
-🚀 Passionate about building solutions that make a difference
+💻 **Junior Backend Developer**  
+🚀 Passionate about building APIs solutions that make a difference
 
 ---
 
 ## 🧠 About Me
 
-- 🔹 Focused on **Backend development** with **Python & Django**
-- 🔹 Experience with **Frontend** using **React & TypeScript**
+- 🔹 Focused on **Backend development** with **Python, FastAPI, Django, Java & Spring**
 - 🔹 Strong interest in **software architecture, clean code & best practices**
-- 🔹 Background in **IT Support** and **customer-oriented problem solving**
-- 🔹 Always learning and open to new challenges
+- 🔹 Always learning and open to new challenges! :)
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
-- Python • Django  
-- Java  
-- TypeScript • React  
+- Python • FastAPI • Django • SQLAlchemy 
+- Java • Spring
 
 **Databases & Tools**
 - PostgreSQL • MySQL  
@@ -32,6 +29,7 @@
 
 ## 🌐 Where to find me
 
+- 💠 **LinkedIn:** [Bryan-Brasil](https://www.linkedin.com/in/bryan-brasil/)
 - 💼 **Professional projects:** [GitHub – @BryanLBrasil](https://github.com/BryanLBrasil)
 - 🎓 **Academic projects:** [GitLab – bryan.brasil](https://gitlab.com/bryan.brasil)
 
