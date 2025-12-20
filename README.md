@@ -31,7 +31,7 @@
 
 - 💠 **LinkedIn:** [Bryan-Brasil](https://www.linkedin.com/in/bryan-brasil/)
 - 💼 **Professional projects:** [GitHub – @BryanLBrasil](https://github.com/BryanLBrasil)
-- 🎓 **Academic projects:** [GitLab – bryan.brasil](https://gitlab.com/bryan.brasil)
+- 🎓 **Academic projects:** [GitLab – bryan.brasil](https://tools.ages.pucrs.br/bryan.brasil)
 
 ---
 
