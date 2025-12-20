@@ -21,12 +21,9 @@
 <h3 align="center">Social media.</h3>
 
 <p align="center">
-  </a>
   <a href="https://www.linkedin.com/in/bryan-brasil/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/BryanLBrasil">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
