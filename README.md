@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="center">github stats.</h3>
+<h3 align="center">Github stats.</h3>
 
 <div align="center">
 
