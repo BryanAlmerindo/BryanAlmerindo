@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bryan Leandro 👋</h1>
+<h1 align="center">Hi, I'm Bryan Leandro!</h1>
 
 <h3 align="center">Software Engineering Student • Backend-focused Developer</h3>
 
@@ -24,9 +24,6 @@
   <a href="https://www.linkedin.com/in/bryan-brasil/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/BryanLBrasil">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://tools.ages.pucrs.br/bryan.brasil">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
@@ -34,12 +31,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<h3 align="center">Github stats.</h3>
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=BryanLBrasil&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLBrasil&layout=compact&theme=tokyon
