@@ -13,7 +13,7 @@
 <h3 align="center">Stack.</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,html,css,react,postgres,git,linux" />
 </p>
 
 ---
