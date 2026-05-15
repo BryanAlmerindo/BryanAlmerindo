@@ -4,8 +4,7 @@
 
 <p align="center">
   Software Engineering student at PUCRS.  
-  Focused on backend development with Python, FastAPI & Django,  
-  but also experienced with Java and Spring.
+  Focused on fullstack development.
 </p>
 
 ---
