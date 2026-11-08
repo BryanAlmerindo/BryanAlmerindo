@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bryan Leandro!</h1>
 
-<h3 align="center">Software Engineering Student • Backend-focused Developer</h3>
+<h3 align="center">Software Engineering Student • Fullstack-focused Developer</h3>
 
 <p align="center">
   Software Engineering student at PUCRS.  
